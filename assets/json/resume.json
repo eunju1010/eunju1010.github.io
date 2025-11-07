@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Eunju Kang",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "eunjuk2@uci.edu",
+    //"phone": "(912) 123-4567",
+    "url": "https://eunju1010.github.io/",
+    "summary": "A second year PhD student in UC Irvine. Currently in NETSAIL group, lead by professor Sangeetha Abdu Jyothi. Researching on satellite network design and video streaming.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "3243 Donald Bren Hall",
+      "postalCode": "CA 92697",
+      "city": "Irvine",
       "countryCode": "US",
       "region": "California"
     },
